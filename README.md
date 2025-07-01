@@ -16,7 +16,7 @@ The goal was to clean the data, explore relationships through SQL queries, and c
 - [Recommendations](#recommendations)
 - [Files Included](#files-included)
 - [Dataset Source](#dataset-source)
-- [Gallary](Gallary) including queires used and dashboard preview
+- [Gallary](#Gallary) including queires used and dashboard preview
 ---
 
 ##  Project Background
