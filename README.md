@@ -1,6 +1,5 @@
-# Project 1
-Analytics portfolio
 #  Bank Marketing Campaign Analysis
+Analytics portfolio
 
 This project explores a bank's marketing campaign data to understand customer behavior and improve deposit conversion rates. 
 The goal was to clean the data, explore relationships through SQL queries, and create visual dashboards in Tableau.
