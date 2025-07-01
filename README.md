@@ -15,7 +15,8 @@ The goal was to clean the data, explore relationships through SQL queries, and c
 - [Recommendations](#recommendations)
 - [Files Included](#files-included)
 - [Dataset Source](#dataset-source)
-- [Gallary](#Gallary) including queires used and dashboard preview
+- [Gallary](#gallary)  including queires used and dashboard preview
+
 ---
 
 ##  Project Background
@@ -62,6 +63,8 @@ This project analyzes customer responses to help identify the best timing, conta
 - **Best Month for Campaigns**:  
   **May** showed the strongest performance with a **17% conversion rate**.
 
+- **Marital status with highest conversion**:  
+  **Married** customers accounted for **52%** of our conversions.
 ---
 
 ##  Recommendations
@@ -91,13 +94,13 @@ This project analyzes customer responses to help identify the best timing, conta
   ![ERD Screenshot](bank_erd.png)
 - Queries used in postgres
 
-![Question_1](age_group.png)
+![Question_1](age_group.png)  
 
-![Question_2](contact_method.png)
+![Question_2](contact_method.png)  
 
-![Question_3](best_month.png)
+![Question_3](best_month.png)  
 
-![Question_4](marital.png)
+![Question_4](marital.png)  
 
 - Dashboard Preview
 ![Dashboard Screenshot](bank_dashboard.png)
