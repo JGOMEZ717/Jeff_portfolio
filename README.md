@@ -67,7 +67,7 @@ This project analyzes customer responses to help identify the best timing, conta
 
 ##  Recommendations
 
-- Focus marketing campaigns on customers aged **30–39** for higher conversion potential.
+- Focus marketing campaigns on customers aged **30–39** and married for higher conversion potential.
 - Prioritize **cellular contact methods** over telephone or unknown methods.
 - Increase campaign activity in **Q2**, especially **May**, based on past success.
 
@@ -80,7 +80,25 @@ This project analyzes customer responses to help identify the best timing, conta
 - `bank_copy (version 1).xlsx` – Cleaned dataset in Excel format
 
 ---
+## Dataset Source
 
-## Dashboard Preview
+-[https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset](URL)
 
+---
+
+## Gallary
+
+-  Entity Relationship Diagram
+  ![ERD Screenshot](bank_erd.png)
+- Queries used in postgres
+
+![Question_1](age_group.png)
+
+![Question_2](contact_method.png)
+
+![Question_3](best_month.png)
+
+![Question_4](marital.png)
+
+- Dashboard Preview
 ![Dashboard Screenshot](bank_dashboard.png)
