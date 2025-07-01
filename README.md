@@ -1,13 +1,13 @@
 # Jeff_portfolio
 Analytics portfolio
-# 🏦 Bank Marketing Campaign Analysis
+#  Bank Marketing Campaign Analysis
 
-This project explores a Portuguese bank's marketing campaign data to understand customer behavior and improve deposit conversion rates. 
+This project explores a bank's marketing campaign data to understand customer behavior and improve deposit conversion rates. 
 The goal was to clean the data, explore relationships through SQL queries, and create visual dashboards in Tableau.
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
 - [Project Background](#project-background)
 - [Tools Used](#tools-used)
 - [Data Cleaning & Preparation](#data-cleaning--preparation)
@@ -19,14 +19,14 @@ The goal was to clean the data, explore relationships through SQL queries, and c
 
 ---
 
-## 📌 Project Background
+##  Project Background
 
 The bank conducted direct marketing campaigns via phone calls to promote term deposits.
 This project analyzes customer responses to help identify the best timing, contact method, and target demographics for future campaigns.
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 - **SQL** – Data extraction, cleaning, joins, and aggregation
 - **Excel** – Additional data validation and export
@@ -34,7 +34,7 @@ This project analyzes customer responses to help identify the best timing, conta
 
 ---
 
-## 🧹 Data Cleaning & Preparation
+##  Data Cleaning & Preparation
 
 - Split raw data into separate `customers`, `campaign`, and `outcomes` tables
 - Used `JOIN` operations in SQL to reconstruct the full dataset
@@ -43,7 +43,7 @@ This project analyzes customer responses to help identify the best timing, conta
 
 ---
 
-## 📊 Exploratory Data Analysis
+##  Exploratory Data Analysis
 
 - Segmented customers by age group and contact method
 - Analyzed conversion rates by month, campaign count, and previous interactions
@@ -51,7 +51,7 @@ This project analyzes customer responses to help identify the best timing, conta
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 - **Conversion Rate by Age Group**:  
   The **30–39** and **60+** groups had the highest conversion rate at **36%**.  
@@ -65,7 +65,7 @@ This project analyzes customer responses to help identify the best timing, conta
 
 ---
 
-## ✅ Recommendations
+##  Recommendations
 
 - Focus marketing campaigns on customers aged **30–39** for higher conversion potential.
 - Prioritize **cellular contact methods** over telephone or unknown methods.
@@ -73,7 +73,7 @@ This project analyzes customer responses to help identify the best timing, conta
 
 ---
 
-## 📂 Files Included
+##  Files Included
 
 - `bank_db.sql` – Creates normalized customer, campaign, and outcomes tables, contains grouped age analysis, merges tables and cleans data contact method success, and monthly trends
 - `bank.twbx` – Tableau workbook with key insights and visualizations
@@ -81,7 +81,7 @@ This project analyzes customer responses to help identify the best timing, conta
 
 ---
 
-## 📈 Dashboard Preview
+## Dashboard Preview
 *(Insert image if available)*
 ```markdown
 ![Dashboard Screenshot](images/bank_dashboard.png)
