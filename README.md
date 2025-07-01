@@ -84,4 +84,4 @@ This project analyzes customer responses to help identify the best timing, conta
 ## Dashboard Preview
 *(Insert image if available)*
 ```markdown
-![Dashboard Screenshot](images/bank_dashboard.png)
+![Dashboard Screenshot](bank_dashboard.png)
