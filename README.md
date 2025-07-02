@@ -91,8 +91,10 @@ This project analyzes customer responses to help identify the best timing, conta
 ## Gallary
 
 -  Entity Relationship Diagram
+--- 
   ![ERD Screenshot](bank_erd.png)
 - Queries used in postgres
+--- 
 
 ![Question_1](agegroup.png)  
 
@@ -103,4 +105,6 @@ This project analyzes customer responses to help identify the best timing, conta
 ![Question_4](maritalstatus.png)  
 
 - Dashboard Preview
+
+---
 ![Dashboard Screenshot](bankdash.png)
