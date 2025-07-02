@@ -48,7 +48,7 @@ This project analyzes customer responses to help identify the best timing, conta
 - Segmented customers by age group and contact method
 - Analyzed conversion rates by month, campaign count, and previous interactions
 - Built views for Tableau to visualize key metrics
-
+- Although May has the highest deposits it only has a 17% conversion rate
 ---
 
 ##  Key Insights
@@ -61,7 +61,7 @@ This project analyzes customer responses to help identify the best timing, conta
   **Cellular** contact had an impressive **83% success rate**.
 
 - **Best Month for Campaigns**:  
-  **May** showed the strongest performance with a **17% conversion rate**.
+  **December** showed the strongest performance with a **92% conversion rate**.
 
 - **Marital status with highest conversion**:  
   **Married** customers accounted for **52%** of our conversions.
@@ -71,14 +71,14 @@ This project analyzes customer responses to help identify the best timing, conta
 
 - Focus marketing campaigns on customers aged **30–39** and married for higher conversion potential.
 - Prioritize **cellular contact methods** over telephone or unknown methods.
-- Increase campaign activity in **Q2**, especially **May**, based on past success.
+- Increase campaign activity in **Q2**, especially **December**, based on past success.
 
 ---
 
 ##  Files Included
 
-- `bank_db.sql` – Creates normalized customer, campaign, and outcomes tables, contains grouped age analysis, merges tables and cleans data contact method success, and monthly trends
-- `bank.twbx` – Tableau workbook with key insights and visualizations
+- `bank.sql` – Creates normalized customer, campaign, and outcomes tables, contains grouped age analysis, merges tables and cleans data contact method success, and monthly trends
+- `bankdash.twbx` – Tableau workbook with key insights and visualizations
 - `bank_copy (version 1).xlsx` – Cleaned dataset in Excel format
 
 ---
@@ -94,13 +94,13 @@ This project analyzes customer responses to help identify the best timing, conta
   ![ERD Screenshot](bank_erd.png)
 - Queries used in postgres
 
-![Question_1](age_group.png)  
+![Question_1](agegroup.png)  
 
-![Question_2](contact_method.png)  
+![Question_2](contactmethod.png)  
 
-![Question_3](best_month.png)  
+![Question_3](bestmonth.png)  
 
-![Question_4](marital.png)  
+![Question_4](maritalstatus.png)  
 
 - Dashboard Preview
-![Dashboard Screenshot](bank_dashboard.png)
+![Dashboard Screenshot](bankdash.png)
