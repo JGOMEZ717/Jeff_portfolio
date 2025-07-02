@@ -79,7 +79,7 @@ This project analyzes customer responses to help identify the best timing, conta
 
 - `bank.sql` – Creates normalized customer, campaign, and outcomes tables, contains grouped age analysis, merges tables and cleans data contact method success, and monthly trends
 - `bankdash.twbx` – Tableau workbook with key insights and visualizations
-- `bank_copy (version 1).xlsx` – Cleaned dataset in Excel format
+- `bank.xlsx` – Cleaned dataset in Excel format
 
 ---
 ## Dataset Source
